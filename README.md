@@ -9,6 +9,7 @@ The path to the folder in my Google Drive is: "/content/drive/MyDrive/Dissertati
 
 Here is the overall structure of the MyWork folder
 
+```
 MyWork
  |-- Dataset
      |-- Blood_Cancer   (Training dataset)
@@ -30,6 +31,7 @@ MyWork
  |-- "2 - Semantic Segmentation.ipynb"
  |-- "3 - prediction and model explain.ipynb"
  |-- "4 - analysis of the result.ipynb"
+```
 
 
 
