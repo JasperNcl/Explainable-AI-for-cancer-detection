@@ -61,3 +61,8 @@ If you want to run all the code, please follow the folder structure hints above 
 
 The dataset can be found on Kaggle at
 https://www.kaggle.com/datasets/akhiljethwa/blood-cancer-image-dataset
+
+### 4，Weight of model
+
+It is too large so I do not upload the weight of the model
+
